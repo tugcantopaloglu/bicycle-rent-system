@@ -14,14 +14,6 @@ The **Bicycle Rent System** is a comprehensive application designed to manage bi
   - Track ongoing rentals and manage customer information.
   - Generate detailed rental reports.
 
-## Technologies Used
-- **Programming Language:** Python
-- **Database:** SQLite
-- **Frameworks/Libraries:**
-  - Flask (for web application)
-  - SQLAlchemy (for ORM)
-  - Bootstrap (for responsive UI)
-
 ## Installation
 To set up the project locally, follow these steps:
 
@@ -70,13 +62,6 @@ To set up the project locally, follow these steps:
   - Log in to access the admin dashboard.
   - Manage inventory and track ongoing rentals.
 
-## Screenshots
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
 ## Future Enhancements
 - Implement user authentication for customers.
 - Add a mobile-friendly design.
@@ -102,8 +87,3 @@ We welcome contributions! To contribute:
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or suggestions, please feel free to reach out:
-- **Email:** [tugcantopaloglu@example.com](mailto:tugcantopaloglu@example.com)
-- **GitHub:** [@tugcantopaloglu](https://github.com/tugcantopaloglu)
