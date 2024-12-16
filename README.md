@@ -27,32 +27,6 @@ To set up the project locally, follow these steps:
    cd bicycle-rent-system
    ```
 
-3. Create a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-4. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. Initialize the database:
-   ```bash
-   python init_db.py
-   ```
-
-6. Run the application:
-   ```bash
-   python app.py
-   ```
-
-7. Open your browser and navigate to:
-   ```
-   http://localhost:5000
-   ```
-
 ## Usage
 - **Customers:**
   - Visit the homepage to view available bicycles.
